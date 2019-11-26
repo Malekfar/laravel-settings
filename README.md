@@ -16,7 +16,7 @@
 1. Install package
 
     ```bash
-    composer require unisharp/laravel-settings
+    composer require malekfar/laravel-settings
     ```
 
 1. Edit config/app.php (Skip this step if you are using laravel 5.5+)
